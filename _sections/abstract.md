@@ -3,6 +3,5 @@ title: Abstract
 order: 1
 container: header
 ---
-This is the first paragraph of the abstract.
+Abstract.
 
-This is another paragraph of the abstract.
