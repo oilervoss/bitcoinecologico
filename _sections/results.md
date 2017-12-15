@@ -1,17 +1,7 @@
 ---
 title: "Results"
-order: 4
+order: 6
 ---
-Elas não surgem do nada. Apesar de algumas poucas serem pré-programadas, a maioria é criada através de mineração, mining, um processo matemático que usa poder computacional para resolver uma fórmula criptográfica tão complexa que a forma mais rápida de encontrar sua solução, que envolve números primos extremamente grandes, é através de tentativa e erro, em outras palavras, força bruta, brute force. 
-Vários mineradores, miners, executam algoritmos de teste em busca da solução. Quando um minerador encontra o nounce, ele recebe uma recompensa por isso, que serão novas cripto-moedas no sistema. O nounce é usado para validar um bloco de transações juntamente com as novas moedas.
-
-Contando com a evolução constante dos equipamentos de computação, a cada determinado número de blocos validados, consequentemente, a cada número de nounce encontrados, a dificuldade é aumentada, exigido mais poder computacional.
-Devido à popularidade do Bitcoin, a dificuldade atual encontra-se tão grande que somente hardware altamente dedicado é capaz de minerá-lo de forma viável, o que significa que o valor negociado pelas moedas geradas é marginalmente superior ao dinheiro gasto com eletricidade e equipamento. 
-
-Estes equipamentos ASIC (application-specific integrated circuit, circuito integrado para aplicação específica) são incapazes de executar outro algoritmo além que o desenhado em seus circuitos. Um ASIC para determinada cripto-moeda só funciona com outra de algoritmo idêntico. 
-
-Assim, quando uma cripto-moeda deixa existir por qualquer que seja motivo, estes super-computadores não servem para nada mais. Não poderão ser usados para sequenciamento genéticos, pesquisas moleculares, cósmicas, procurar vida extra-terrestre, estudar o bóson de Higgs ou encontrar a matéria escura. Não servirão sequer para uma partida de xadrez. Não existe software que possa ser trocado, só existe hardware, e ele não faz outra coisa. Eles se tornarão simplesmente lixo tecnológico. Não bastasse o desperdício de recursos, estes aparelhos utilizam elementos químicos tóxicos em sua construção, como qualquer computador, causando impacto ambiental para serem construídos, para serem utilizados e para serem descartados.
-
 Estima-se hoje que são utilizados mundialmente 32 TWh   de energia elétrica por ano para a mineração de Bitcoins apenas, com um custo de 1,6 bilhão de dólares. O mesmo que toda a Dinamarca. Para se ter ideia, a usina de Itaipu é capaz de gerar 122 TWh.
 Cada transação causa um impacto de carbono, carbon footprint, de 115 quilos, o que implica em 16 toneladas liberadas no ar por ano para gerar números digitais sem qualquer utilidade intrínseca. Observe que estes números refletem somente a produção de energia elétrica, sem levar em consideração a massiva quantidade de calor gerado. 
 
@@ -34,4 +24,6 @@ Até mesmo os desenvolvedores do Ethereum, atualmente uma cripto-moeda mineirada
 
 Como é difícil eliminar o uso destas moedas antiecológicas devido à grande aceitação no mercado, eu recomendo que se faça o mínimo possível de transações com elas. Pesquise sobre a origem do que está comprando, pois existem outros algoritmos além do PoS que não fazem uso de elevado poder computacional. Exemplos são o PoI (proof-of-importance), moedas pré-mineiradas e soluções mistas PoW/PoS que não são tão nocivas ao meio-ambiente.
 
-Algumas das cripto-moedas não PoW com maior valor de mercado são (acima de 40 milhões de dólares cada): NEO, Lisk, IOTA, NEM, BitShares, Dash, ChainCoin, BitcoinDark, Factom, Nxt, Peercoin, Pivx, Stellar Lumen. Suas posições estão constantemente mudando, portanto não é possível apontar uma líder. Guarde bem estes nomes e quando for possível escolher entre eles, faça a opção certa. Pelos seus filhos, pelo planeta.
+Algumas das cripto-moedas não PoW com maior valor de mercado são (acima de 40 milhões de dólares cada): NEO, Lisk, IOTA, NEM, BitShares, Dash, ChainCoin, BitcoinDark, Factom, Nxt, Peercoin, Pivx, Stellar Lumen. Suas posições estão constantemente mudando, portanto não é possível apontar uma líder. 
+
+Guarde bem estes nomes e quando for possível escolher entre eles, faça a opção certa. Pelos seus filhos, pelo planeta.
