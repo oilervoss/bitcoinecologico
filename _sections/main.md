@@ -6,7 +6,7 @@ container: header
 
 ## Bitcoin. Bom para você? Bom para o planeta?
 
-Antes de tudo, tenha em mente que o Bitcoin é a mais antiga moeda digital atualmente em uso, mas não a única. Não foi a primeira, mas tem sido a de maior durabilidade e também a de maior valor de mercado. Além do Bitcoin existem 1.354 cripto-moedas[^fn1], *cryptocoins*, sendo negociadas ativamente em dezembro de 2017. São também conhecidas como *alt coins*, moedas alternativas, por se tratarem de uma opção ao Bitcoin. No entanto, existem mais de 4.541 cripto-moedas[^fn2] documentadas. A maioria destas moedas é pública, isto é, seu conteúdo não é protegido por senha. Através do endereço de uma transação, *public key*, você pode consultar livremente seus valores. No entanto, para movimentar seu conteúdo, é preciso possuir o endereço privado respectivo, *private key,* e em determinados casos a senha associada.
+Antes de tudo, tenha em mente que o Bitcoin é a mais antiga moeda digital atualmente em uso, mas não a única. Não foi a primeira, mas tem sido a de maior durabilidade e também a de maior valor de mercado. Além do Bitcoin existem 1.354 cripto-moedas[<sup>1</sup>], *cryptocoins*, sendo negociadas ativamente em dezembro de 2017. São também conhecidas como *alt coins*, moedas alternativas, por se tratarem de uma opção ao Bitcoin. No entanto, existem mais de 4.541 cripto-moedas[<sup>2</sup>] documentadas. A maioria destas moedas é pública, isto é, seu conteúdo não é protegido por senha. Através do endereço de uma transação, *public key*, você pode consultar livremente seus valores. No entanto, para movimentar seu conteúdo, é preciso possuir o endereço privado respectivo, *private key,* e em determinados casos a senha associada.
 
 Pelo mesmo motivo, novamente ao contrário do que se divulga, as transações envolvendo a maioria destas moedas não são anônimas. São pseudônimas. Todas as transações são públicas e cada fração de moeda pode ser rastreada a cada movimentação até o ponto de sua criação. O desafio está em ligar o pseudônimo ao operador de carne e osso. Só é preciso que uma única operação seja associada a uma identidade real para descobrir a pessoa por trás dela. São poucas as cripto-moedas com elevado grau de anonimato.
 
@@ -38,9 +38,9 @@ Elas não surgem do nada. Apesar de algumas poucas serem pré-programadas, a mai
 
 Devido à popularidade do Bitcoin, a dificuldade atual encontra-se tão grande que somente hardware altamente dedicado é capaz de minerá-lo de forma viável, o que significa que o valor negociado pelas moedas geradas é marginalmente superior ao dinheiro gasto com eletricidade e equipamento. Estes equipamentos ASIC (*application-specific integrated circuit* - circuito integrado para aplicação específica) são incapazes de executar outro algoritmo além do que o desenhado em seus circuitos. Um ASIC para determinada cripto-moeda só funciona com outra de algoritmo idêntico. Assim, quando uma cripto-moeda deixa de existir por qualquer que seja motivo, estes super-computadores não servem para nada mais. Não poderão ser usados para sequenciamentos genéticos, pesquisas moleculares, cósmicas, procurar vida extra-terrestre, estudar o bóson de Higgs ou encontrar a matéria escura. Não servirão sequer para uma partida de xadrez. Não existe *software* que possa ser trocado, só existe *hardware, *e ele não faz outra coisa. Eles se tornarão simplesmente lixo tecnológico. Não bastasse o desperdício de recursos, estes aparelhos utilizam elementos químicos tóxicos em sua construção, como qualquer computador, causando impacto ambiental para serem construídos, para serem utilizados e para serem descartados.
 
-Estima-se hoje que são utilizados mundialmente 32 TWh[^fn3] de energia elétrica por ano para a mineração de Bitcoins. Para se ter ideia, a usina de Itaipu é capaz de gerar 122 TWh. Cada transação causa um impacto de carbono, *carbon footprint*, liberadas no ar por ano para gerar números digitais sem qualquer utilidade intrínseca. Observe que estes números refletem somente a produção de energia elétrica, sem levar em consideração a massiva quantidade de calor gerado. Cada transação Bitcoin gasta 235 kWh de energia elétrica para ser validada, o suficiente para manter-se uma casa em funcionamento por nove dias.[^fn4] É uma corrida sem vencedor. O algoritmo de mineração garante que quanto mais rápido seja executado, maior a dificuldade, assim cada bloco levará sempre 10 minutos para ser solucionado, não importa quanto mais rápida seja a tecnologia da época.
+Estima-se hoje que são utilizados mundialmente 32 TWh[<sup>3</sup>] de energia elétrica por ano para a mineração de Bitcoins. Para se ter ideia, a usina de Itaipu é capaz de gerar 122 TWh. Cada transação causa um impacto de carbono, *carbon footprint*, liberadas no ar por ano para gerar números digitais sem qualquer utilidade intrínseca. Observe que estes números refletem somente a produção de energia elétrica, sem levar em consideração a massiva quantidade de calor gerado. Cada transação Bitcoin gasta 235 kWh de energia elétrica para ser validada, o suficiente para manter-se uma casa em funcionamento por nove dias.[<sup>4</sup>] É uma corrida sem vencedor. O algoritmo de mineração garante que quanto mais rápido seja executado, maior a dificuldade, assim cada bloco levará sempre 10 minutos para ser solucionado, não importa quanto mais rápida seja a tecnologia da época.
 
-Alguns países já lidam com problemas de racionamento e elevação de tarifas. Com o Bitcoin valorizando astronomicamente, os custos para sua geração caem, o que levará ao surgimento de mais mineradores, acréscimo de equipamentos e a consequente elevação do consumo mundial de energia.  No momento, para cada dólar gasto com energia dirigida a mineração, são gerados 10 dólares em Bitcoins.[^fn5]
+Alguns países já lidam com problemas de racionamento e elevação de tarifas. Com o Bitcoin valorizando astronomicamente, os custos para sua geração caem, o que levará ao surgimento de mais mineradores, acréscimo de equipamentos e a consequente elevação do consumo mundial de energia.  No momento, para cada dólar gasto com energia dirigida a mineração, são gerados 10 dólares em Bitcoins.[<sup>5</sup>]
 
 Há argumentos frágeis que comparam estes gastos energéticos com a extração do ouro e produção de outros *commodities*. No entanto, é muito claro que o ouro resultado deste gasto tem inúmeras aplicações tecnológicas e médicas além do valor financeiro. O que se pode fazer com um Bitcoin, além de trocá-lo de mãos? Com a velocidade de adoção atual, calcula-se que em 2020 a mineração Bitcoin exigiria toda a energia gerada no planeta. Obviamente, muito antes disto acontecer, os custos elevados o tornarão desinteressante, eliminando-o por final. Ainda que o Bitcoin esteja fadado a desaparecer no longo prazo, suas alternativas são mais resistentes ao tempo, certamente mais verdes e candidatas certas a prosperar.
 
@@ -49,16 +49,17 @@ O algoritmo de mineração por prova de trabalho, *proof-of-work*, descrito ante
 Até mesmo os desenvolvedores do Ethereum, atualmente uma cripto-moeda mineirada por PoW que tem desafiado a supremacia do Bitcoin, a segunda do mundo em valor global de mercado, pretendem trocar seu algoritmo para PoS em breve. É previsto que outros o seguirão num claro esforço de manter a moeda a prova do tempo (*future-proof*). Como é difícil eliminar o uso destas moedas antiecológicas devido à grande aceitação no mercado, eu recomendo que se faça o mínimo possível de transações com elas. Pesquise sobre a origem do que está comprando, pois existem outros algoritmos além do PoS que não fazem uso de elevado poder computacional. Exemplos são o PoI (*proof-of-importance*), moedas pré-mineiradas e soluções mistas PoW/PoS que não são tão nocivas ao meio-ambiente. Algumas das cripto-moedas não PoW com maior valor de mercado são (acima de 40 milhões de dólares cada): NEO, Lisk, IOTA, NEM, BitShares, Dash, ChainCoin, BitcoinDark, Factom, Nxt, Peercoin, Pivx, Stellar Lumen. Suas posições estão constantemente mudando, portanto não é possível apontar uma líder. Guarde bem estes nomes e quando for possível escolher entre eles, faça a opção certa. Pelos seus filhos, pelo planeta.
 
 
-Euler Timóteo Alves
-Jose Antonio de Sousa Neto
+[Euler Timóteo Alves](https://orcid.org/0000-0002-6059-4555)
+
+[Jose Antonio de Sousa Neto](https://orcid.org/0000-0002-2566-4044)
 
 
-[^fn1]: https://coinmarketcap.com/all/views/all/
+[<sup>1</sup>]: https://coinmarketcap.com/all/views/all/
 
-[^fn2]: https://cryptocoincharts.info/coins/info
+[<sup>2</sup>]: https://cryptocoincharts.info/coins/info
 
-[^fn3]: https://digiconomist.net/bitcoin-energy-consumption
+[<sup>3</sup>]: https://digiconomist.net/bitcoin-energy-consumption
 
-[^fn4]: https://arstechnica.com/tech-policy/2017/12/bitcoins-insane-energy-consumption-explained/
+[<sup>4</sup>]: https://arstechnica.com/tech-policy/2017/12/bitcoins-insane-energy-consumption-explained/
 
-[^fn5]: https://digiconomist.net/bitcoin-energy-consumption
+[<sup>5</sup>]: https://digiconomist.net/bitcoin-energy-consumption
