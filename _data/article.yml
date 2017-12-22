@@ -13,6 +13,10 @@ authors:
     email: "webmaster(a)alves(dot)pro(dot)br"
     url: https://alves.pro.br
     orcid: "0000-0002-6059-4555"
+  - &neto
+    id: "jose-antonio"
+    name: "José Antonio de Sousa Neto"
+    orcid: "0000-0002-2566-4044"
 
 #  - &bob-exemplar
 #    id: "bob-exemplar"
@@ -26,6 +30,7 @@ affiliations:
     url: http://www.fpl.edu.br/
     members:
       - *euler-alves
+      - *neto
 
 #  - name: "Harvard University"
 #    department: "Department of Molecular and Cellular Biology"
@@ -55,20 +60,6 @@ affiliations:
 #          - *alice-exemplar
 
 contributions:
-  - name: "Methodology"
-    url: http://dictionary.casrai.org/Contributor_Roles/Methodology
-    contributors:
-      - *euler-alves
-
-  - name: "Investigation"
-    url: http://dictionary.casrai.org/Contributor_Roles/Investigation
-    contributors:
-      - *euler-alves
-
-  - name: "Formal analysis"
-    url: http://dictionary.casrai.org/Contributor_Roles/Formal_analysis
-    contributors:
-      - *euler-alves
 
   - name: "Writing - original draft"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft
@@ -78,4 +69,4 @@ contributions:
   - name: "Writing - review & editing"
     url: http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing
     contributors:
-      - *euler-alves
+      - *neto
