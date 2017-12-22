@@ -1,7 +1,7 @@
 ---
-title: Bitcoin: bom para você? Bom para o planeta?
-author: Euler
-order: 1
+title: Main
+order: 2
+container: header
 ---
 
 ## Bitcoin. Bom para você? Bom para o planeta?
