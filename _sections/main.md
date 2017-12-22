@@ -1,10 +1,8 @@
 ---
-title: Main
+title: Discussion
 order: 2
 container: header
 ---
-
-## Bitcoin. Bom para você? Bom para o planeta?
 
 Antes de tudo, tenha em mente que o Bitcoin é a mais antiga moeda digital atualmente em uso, mas não a única. Não foi a primeira, mas tem sido a de maior durabilidade e também a de maior valor de mercado. Além do Bitcoin existem 1.354 cripto-moedas[<sup>1</sup>], *cryptocoins*, sendo negociadas ativamente em dezembro de 2017. São também conhecidas como *alt coins*, moedas alternativas, por se tratarem de uma opção ao Bitcoin. No entanto, existem mais de 4.541 cripto-moedas[<sup>2</sup>] documentadas. A maioria destas moedas é pública, isto é, seu conteúdo não é protegido por senha. Através do endereço de uma transação, *public key*, você pode consultar livremente seus valores. No entanto, para movimentar seu conteúdo, é preciso possuir o endereço privado respectivo, *private key,* e em determinados casos a senha associada.
 
